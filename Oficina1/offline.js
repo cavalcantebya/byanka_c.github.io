@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1499256157,
+	"version": 1499272628,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -63,6 +63,16 @@
 		"images/sprite2-sheet0.png",
 		"images/vidavazio-sheet0.png",
 		"images/vida-sheet0.png",
+		"images/voltar-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite5-sheet0.png",
+		"images/setas-sheet0.png",
+		"images/shift-sheet0.png",
+		"images/space-sheet0.png",
+		"images/enter-sheet0.png",
+		"images/fundoo-sheet0.png",
+		"images/rato-sheet0.png",
+		"images/sprite6-sheet0.png",
 		"media/-victory.m4a",
 		"media/-victory.ogg",
 		"media/game over.m4a",
