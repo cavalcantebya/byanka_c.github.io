@@ -10,7 +10,8 @@ criando **minha** _página_ ~~principal~~
  ### --> GAMES 
 [JOGO 1 OFICINA:]  
 [JOGO 2 OFICINA: MUSACHER ](LINK)  
-[JOGO 3 OFICINA : QUE PAÍS É ESSE? ](cavalcantebya.github.io/quepaiseesse)  
+[![](fBR.jpg)  ](cavalcantebya.github.io/quepaiseesse)  
+
 
 * * *
  ### --> PRODUÇÕES  
