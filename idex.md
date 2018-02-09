@@ -7,12 +7,9 @@ criando **minha** _página_ ~~principal~~
  * * *
  # PORTIFÓLIOS
  * * *
- ### --> GAMES 
-[JOGO 1 OFICINA:]  
+ ### --> GAMES  
 [JOGO 2 OFICINA: MUSACHER ](LINK)  
-[![](fBR.jpg)  ](cavalcantebya.github.io/quepaiseesse)  
-
-
+[![](fBR.jpg)](cavalcantebya.github.io/quepaiseesse)  
 * * *
  ### --> PRODUÇÕES  
  * * *
