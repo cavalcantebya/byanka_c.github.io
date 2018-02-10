@@ -1,3 +1,13 @@
+---
+layout: default
+---
+* * *
+Text can be:  
+**bold**    
+_italic_  
+~~riscado~~.  
+* * *
+
 
 
 criando **minha** _página_ ~~principal~~
@@ -28,12 +38,3 @@ criando **minha** _página_ ~~principal~~
  
  
 
----
-layout: default
----
-* * *
-Text can be:  
-**bold**    
-_italic_  
-~~riscadi~~.  
-* * *
