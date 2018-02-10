@@ -12,8 +12,9 @@ _italic_
 
 criando **minha** _página_ ~~principal~~
 * * *
-# QUEM SOU EU
- Sou uma estudante que gosta muito das aulas do professor Marcelo  
+# QUEM SOU EU  
+![](op4.png)  
+ **_Estudante do curso de Programação de Jogos Digitais pela instituição federal do RN, carioca, 18 anos._**  
  * * *
  # PORTIFÓLIOS
  * * *
