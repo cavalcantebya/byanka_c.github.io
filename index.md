@@ -12,23 +12,23 @@ _italic_
 
 criando **minha** _página_ ~~principal~~
 * * *
-# QUEM SOU EU  
+# ABOUT ME  
 ![](op4.png)  
- **_Estudante do curso de Programação de Jogos Digitais pela instituição federal do RN, carioca, 18 anos._**  
+ **_Digital game programming student through the IFRN-CM, carioca and 18 years old._**  
  * * *
- # PORTIFÓLIOS
+ # PORTFOLIOS
  * * *
- ### --> GAMES  
+ ## GAMES  
 [JOGO 2 OFICINA: MUSACHER ](LINK)  
 [![](fBR.jpg)](cavalcantebya.github.io/quepaiseesse)  
 * * *
- ### --> PRODUÇÕES  
+ ## PRODUCTIONS  
  * * *
- ### --> ARTES  
+ ### --> ART  
  ![IMAGEM1](https://www.brik.co/blogs/pixel-art/134478151-olaf-frozen-pixel-art)  
  ![](GAMEOVER.jpg)
  * * *
- ### --> APRESENTAÇÕES  
+ ### PRESENTATIONS 
  * AULA DE MÚSICA
  * AULA DE TEATRO
  * AULA DE JOGOS
