@@ -1,7 +1,7 @@
 # Site settings
 title: Byanka Cavalcante
 email: byanka.byankasantos@gmail.com
-url: https://example.github.io
+url: https://cavalcantebya.github.io
 description: "Digital game programming student through the IFRN-CM, carioca and 18 years old."
 keywords: "digital games, design, audio, programming, c++"
 skills: "Developer Student - Graphic Student - Game Programming"
@@ -14,7 +14,7 @@ google_verify:
 bing_verify:
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
+# - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: Location
+  location: IFRN- Ceará-Mirim
   social: Around the Web
   credits: Credits
 
