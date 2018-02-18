@@ -1,11 +1,12 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
+date: 
 img: cabin.png
 alt: image-alt
 project-date: July 2017
-client: Games Room/ Marcelo Mesmo
+client: Marcelo Mesmo
 category: Digital Games
-description: The game "Largada Para Soltura" was the first work in the game workshop field by the teacher Marcelo, where the goal was to be a platform game. To have the opportunity to play, just click on the link below: https://ruthimaria01.github.io/largada/
+description: The game <a href="ruthimaria01.github.io/largada">Largada Para Soltura</a> was the first work in the game workshop matter by educator Marcelo, where the goal was to be a mobile game. To have the opportunity to play, just press on the name of the game. 
 
 ---
