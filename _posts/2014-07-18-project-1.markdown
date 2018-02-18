@@ -9,4 +9,3 @@ client: Marcelo Mesmo
 category: Digital Games
 description: The game <a href="ruthimaria01.github.io/largada">Largada Para Soltura</a> was the first work in the game workshop matter by educator Marcelo, where the goal was to be a mobile game. To have the opportunity to play, just press on the name of the game. 
 
----
