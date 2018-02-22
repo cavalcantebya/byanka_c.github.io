@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 3
-date:2017-12-05 
+date: 2017-12-05 
 img: circus.png
 alt: Que País é esse?
 project-date: December 2017
 client:  game workshop
 category: Digital Games
-description: <a href="cavalcantebya.github.io/quepaiseesse">Que País é esse</a> was the last game made. To play, just press in the name
+description: <a href="cavalcantebya.github.io/quepaiseesse">Que País é esse</a> was the last game made.
 
 ---
