@@ -7,6 +7,6 @@ alt: Musacher
 project-date: September 2017
 client: Game Workshop
 category: Games
-description: The game Musacher was the second work in the game workshop matter by educator Marcelo, where the goal was to be a mobile game. To have the opportunity to play, just press the link: ruthimaria01.github.io/musacher
+description: Musacher was the second work in the game workshop. to play, just press the link: ruthimaria01.github.io/musacher
 
 ---
