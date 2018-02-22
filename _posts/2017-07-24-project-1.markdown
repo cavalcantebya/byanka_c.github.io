@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2017-06-24
+img: cabin.png
+alt: image-alt
+project-date: July 2017
+client: Game Workshop - IFRN /CM
+category: Game
+description: The game Largada was the first work in the game workshop matter by educator Marcelo, where the goal was to be a platafomr game. To have the opportunity to play, just press the link: https://ruthimaria01.github.io/largada/
+
+---
