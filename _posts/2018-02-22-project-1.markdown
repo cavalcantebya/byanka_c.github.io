@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2018-02-22
+img: cabin.png
+alt: Largada para Soltura
+project-date: April 2018
+client: Oficina de Jogos
+category: Jogos Digitais
+description: Jogo feito para a disciplina de jogos digitais. Acesso pelo link https://ruthimaria01.github.io/largada/
+---
