@@ -7,6 +7,6 @@ alt: Que País é esse?
 project-date: December 2017
 client:  game workshop
 category: Digital Games
-description: The game Que país é esse? was the third work in the game workshop matter by educator Marcelo, where the goal was to be use our imagination. Threby,  the group took advantage of the opening for the existence of a social critique with the game . To have the opportunity to  play, just press the link(However, be aware that at stake is full of bugs): cavalcantebya.github.io/quepaiseesse  
+description: <a href="cavalcantebya.github.io/quepaiseesse">Que País é esse</a> was the last game made. To play, just press in the name
 
 ---
