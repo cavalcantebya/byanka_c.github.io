@@ -7,6 +7,6 @@ alt: Musacher
 project-date: September 2017
 client: Game Workshop
 category: Games
-description: Musacher was the second work in the game workshop. to play, just press the link: ruthimaria01.github.io/musacher
+description: <a href="ruthimaria01.github.io/musacher">Musacher</a> was the second work in the game workshop. to play, just press in the name 
 
 ---
