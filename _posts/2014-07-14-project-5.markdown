@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2018-12-20
 img: safe.png
 alt: image-alt
-project-date: April 2014
+project-date: Dec 2018
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://drive.google.com/drive/folders/1UNSdOblRO2x9CzPXONOl7KY0yvZQ3Md4">Artes</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+category: Game workshop
+description: <a href="https://drive.google.com/open?id=180Wzp3D-3d7GbshzDc6zXCmANjLfUiNK">Arts</a>. of the final project of the Programming of Digital Games
 
 ---
